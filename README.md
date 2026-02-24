@@ -25,5 +25,5 @@ To run Kafka locally use `docker-compose.yml` file which uses **KRaft** mode.
   docker-compose down
 
 - **View Logs:**
-
   docker-compose logs -f kafka
+
