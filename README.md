@@ -1,6 +1,6 @@
 # RESTful API Katalon & Kafka Test Project
 
-### Sampling Dataset 
+### Sampling Dataset & Existing Test Project
 
 - https://docs.katalon.com/katalon-studio/docs/web-service-samples.html
 
@@ -26,4 +26,5 @@ To run Kafka locally use `docker-compose.yml` file which uses **KRaft** mode.
 
 - **View Logs:**
   docker-compose logs -f kafka
+
 
