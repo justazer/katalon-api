@@ -13,7 +13,7 @@
 
 ## Local Development Environment
 ### Kafka with Docker (KRaft Mode)
-To run Kafka locally without Zookeeper, you can use the provided `docker-compose.yml` file which uses **KRaft** mode.
+To run Kafka locally use `docker-compose.yml` file which uses **KRaft** mode.
 
 **Prerequisites:**
 - [Docker](https://www.docker.com/get-started) installed and running.
@@ -25,4 +25,5 @@ To run Kafka locally without Zookeeper, you can use the provided `docker-compose
   docker-compose down
 
 - **View Logs:**
+
   docker-compose logs -f kafka
